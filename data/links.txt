@@ -1,0 +1,21 @@
+Passos:
+
+virtualenv timmaia
+timmaia\Scripts\activate
+
+pip install notebook
+pip install torch torchvision torchaudio
+pip install matplotlib
+ip install streamlit
+
+
+https://chrome.google.com/webstore/detail/bulk-image-downloader/lamfengpphafgjdgacmmnpakdphmjlji?hl=en
+
+
+
+https://towardsdatascience.com/create-an-image-classification-web-app-using-pytorch-and-streamlit-f043ddf00c24
+
+
+refs:
+
+kernel - https://dev.to/sandeepbalachandran/machine-learning-convolutional-neural-networks-cnn-3npd
